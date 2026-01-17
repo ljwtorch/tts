@@ -1268,8 +1268,8 @@ const HTML_PAGE = `
         // 国际化翻译数据
         const translations = {
             en: {
-                'page.title': 'VoiceCraft - AI-Powered Voice Processing Platform',
-                'page.description': 'VoiceCraft is an AI-powered platform that converts text to speech and speech to text with 20+ voice options, lightning fast processing, completely free to use.',
+                'page.title': 'Vv\\'s TTS - AI-Powered Voice Processing Platform',
+                'page.description': 'Vv\\'s TTS is an AI-powered platform that converts text to speech and speech to text with 20+ voice options, lightning fast processing, completely free to use.',
                 'page.keywords': 'text to speech,AI voice synthesis,online TTS,voice generator,free voice tools,speech to text,voice transcription',
                 'lang.current': 'English',
                 'lang.en': 'English',
@@ -1280,7 +1280,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'AI-Powered Voice Processing Platform',
                 'header.feature1': '20+ Voice Options',
                 'header.feature2': 'Lightning Fast',
@@ -1290,8 +1290,8 @@ const HTML_PAGE = `
                 'mode.transcription': 'Speech to Text'
             },
             zh: {
-                'page.title': 'VoiceCraft - AI驱动的语音处理平台',
-                'page.description': 'VoiceCraft是一个AI驱动的平台，支持文字转语音和语音转文字，拥有20+种语音选项，闪电般的处理速度，完全免费使用。',
+                'page.title': 'Vv\\'s TTS - AI驱动的语音处理平台',
+                'page.description': 'Vv\\'s TTS是一个AI驱动的平台，支持文字转语音和语音转文字，拥有20+种语音选项，闪电般的处理速度，完全免费使用。',
                 'page.keywords': '文字转语音,AI语音合成,在线TTS,语音生成器,免费语音工具,语音转文字,语音转录',
                 'lang.current': '中文',
                 'lang.en': 'English',
@@ -1302,7 +1302,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'AI驱动的语音处理平台',
                 'header.feature1': '20+种语音选项',
                 'header.feature2': '闪电般快速',
@@ -1312,8 +1312,8 @@ const HTML_PAGE = `
                 'mode.transcription': '语音转文字'
             },
             ja: {
-                'page.title': 'VoiceCraft - AI音声処理プラットフォーム',
-                'page.description': 'VoiceCraftはAI駆動のプラットフォームで、テキスト読み上げと音声テキスト変換に対応。20以上の音声オプション、高速処理、完全無料でご利用いただけます。',
+                'page.title': 'Vv\\'s TTS - AI音声処理プラットフォーム',
+                'page.description': 'Vv\\'s TTSはAI駆動のプラットフォームで、テキスト読み上げと音声テキスト変換に対応。20以上の音声オプション、高速処理、完全無料でご利用いただけます。',
                 'page.keywords': 'テキスト読み上げ,AI音声合成,オンラインTTS,音声ジェネレーター,無料音声ツール,音声テキスト変換,音声転写',
                 'lang.current': '日本語',
                 'lang.en': 'English',
@@ -1324,7 +1324,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'AI音声処理プラットフォーム',
                 'header.feature1': '20以上の音声オプション',
                 'header.feature2': '高速処理',
@@ -1334,8 +1334,8 @@ const HTML_PAGE = `
                 'mode.transcription': '音声テキスト変換'
             },
             ko: {
-                'page.title': 'VoiceCraft - AI 음성 처리 플랫폼',
-                'page.description': 'VoiceCraft는 AI 기반 플랫폼으로 텍스트 음성 변환과 음성 텍스트 변환을 지원합니다. 20개 이상의 음성 옵션, 빠른 처리 속도, 완전 무료로 이용하실 수 있습니다.',
+                'page.title': 'Vv\\'s TTS - AI 음성 처리 플랫폼',
+                'page.description': 'Vv\\'s TTS는 AI 기반 플랫폼으로 텍스트 음성 변환과 음성 텍스트 변환을 지원합니다. 20개 이상의 음성 옵션, 빠른 처리 속도, 완전 무료로 이용하실 수 있습니다.',
                 'page.keywords': '텍스트 음성 변환,AI 음성 합성,온라인 TTS,음성 생성기,무료 음성 도구,음성 텍스트 변환,음성 전사',
                 'lang.current': '한국어',
                 'lang.en': 'English',
@@ -1346,7 +1346,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'AI 음성 처리 플랫폼',
                 'header.feature1': '20개 이상의 음성 옵션',
                 'header.feature2': '빠른 처리',
@@ -1356,8 +1356,8 @@ const HTML_PAGE = `
                 'mode.transcription': '음성 텍스트 변환'
             },
             es: {
-                'page.title': 'VoiceCraft - Plataforma de Procesamiento de Voz con IA',
-                'page.description': 'VoiceCraft es una plataforma impulsada por IA que convierte texto a voz y voz a texto con más de 20 opciones de voz, procesamiento ultrarrápido, completamente gratis.',
+                'page.title': 'Vv\\'s TTS - Plataforma de Procesamiento de Voz con IA',
+                'page.description': 'Vv\\'s TTS es una plataforma impulsada por IA que convierte texto a voz y voz a texto con más de 20 opciones de voz, procesamiento ultrarrápido, completamente gratis.',
                 'page.keywords': 'texto a voz,síntesis de voz IA,TTS en línea,generador de voz,herramientas de voz gratis,voz a texto,transcripción de voz',
                 'lang.current': 'Español',
                 'lang.en': 'English',
@@ -1368,7 +1368,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'Plataforma de Procesamiento de Voz con IA',
                 'header.feature1': 'Más de 20 Opciones de Voz',
                 'header.feature2': 'Ultrarrápido',
@@ -1378,8 +1378,8 @@ const HTML_PAGE = `
                 'mode.transcription': 'Voz a Texto'
             },
             fr: {
-                'page.title': 'VoiceCraft - Plateforme de Traitement Vocal IA',
-                'page.description': 'VoiceCraft est une plateforme alimentée par IA qui convertit le texte en parole et la parole en texte avec plus de 20 options vocales, traitement ultra-rapide, entièrement gratuit.',
+                'page.title': 'Vv\\'s TTS - Plateforme de Traitement Vocal IA',
+                'page.description': 'Vv\\'s TTS est une plateforme alimentée par IA qui convertit le texte en parole et la parole en texte avec plus de 20 options vocales, traitement ultra-rapide, entièrement gratuit.',
                 'page.keywords': 'texte vers parole,synthèse vocale IA,TTS en ligne,générateur vocal,outils vocaux gratuits,parole vers texte,transcription vocale',
                 'lang.current': 'Français',
                 'lang.en': 'English',
@@ -1390,7 +1390,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'Plateforme de Traitement Vocal IA',
                 'header.feature1': 'Plus de 20 Options Vocales',
                 'header.feature2': 'Ultra-rapide',
@@ -1400,8 +1400,8 @@ const HTML_PAGE = `
                 'mode.transcription': 'Parole vers Texte'
             },
             de: {
-                'page.title': 'VoiceCraft - KI-gestützte Sprachverarbeitungsplattform',
-                'page.description': 'VoiceCraft ist eine KI-gestützte Plattform, die Text in Sprache und Sprache in Text umwandelt, mit über 20 Sprachoptionen, blitzschneller Verarbeitung, völlig kostenlos.',
+                'page.title': 'Vv\\'s TTS - KI-gestützte Sprachverarbeitungsplattform',
+                'page.description': 'Vv\\'s TTS ist eine KI-gestützte Plattform, die Text in Sprache und Sprache in Text umwandelt, mit über 20 Sprachoptionen, blitzschneller Verarbeitung, völlig kostenlos.',
                 'page.keywords': 'Text zu Sprache,KI-Sprachsynthese,Online-TTS,Sprachgenerator,kostenlose Sprachtools,Sprache zu Text,Sprachtranskription',
                 'lang.current': 'Deutsch',
                 'lang.en': 'English',
@@ -1412,7 +1412,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'KI-gestützte Sprachverarbeitungsplattform',
                 'header.feature1': 'Über 20 Sprachoptionen',
                 'header.feature2': 'Blitzschnell',
@@ -1422,8 +1422,8 @@ const HTML_PAGE = `
                 'mode.transcription': 'Sprache zu Text'
             },
             ru: {
-                'page.title': 'VoiceCraft - ИИ-платформа обработки голоса',
-                'page.description': 'VoiceCraft - это платформа на базе ИИ, которая преобразует текст в речь и речь в текст с более чем 20 голосовыми опциями, молниеносной обработкой, совершенно бесплатно.',
+                'page.title': 'Vv\\'s TTS - ИИ-платформа обработки голоса',
+                'page.description': 'Vv\\'s TTS - это платформа на базе ИИ, которая преобразует текст в речь и речь в текст с более чем 20 голосовыми опциями, молниеносной обработкой, совершенно бесплатно.',
                 'page.keywords': 'текст в речь,ИИ синтез речи,онлайн TTS,генератор голоса,бесплатные голосовые инструменты,речь в текст,транскрипция речи',
                 'lang.current': 'Русский',
                 'lang.en': 'English',
@@ -1434,7 +1434,7 @@ const HTML_PAGE = `
                 'lang.fr': 'Français',
                 'lang.de': 'Deutsch',
                 'lang.ru': 'Русский',
-                'header.title': 'VoiceCraft',
+                'header.title': 'Vv\\'s TTS',
                 'header.subtitle': 'ИИ-платформа обработки голоса',
                 'header.feature1': 'Более 20 голосовых опций',
                 'header.feature2': 'Молниеносно',
@@ -1462,7 +1462,7 @@ const HTML_PAGE = `
 
         function setLanguage(lang) {
             currentLanguage = lang;
-            localStorage.setItem('voicecraft-language', lang);
+            localStorage.setItem('Vv\\'s TTS-language', lang);
             
             // 更新页面语言属性
             document.documentElement.lang = lang === 'zh' ? 'zh-CN' : lang;
@@ -2058,7 +2058,7 @@ const HTML_PAGE = `
         // 初始化国际化
         function initializeI18n() {
             // 检查本地存储中的语言设置
-            const savedLang = localStorage.getItem('voicecraft-language');
+            const savedLang = localStorage.getItem('Vv\\'s TTS-language');
             
             if (savedLang && translations[savedLang]) {
                 currentLanguage = savedLang;
